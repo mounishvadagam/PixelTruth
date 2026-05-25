@@ -116,36 +116,4 @@ data/
 
 ### 4. Train the model
 run each cell in the jupyter notebook.
-```
 
----
-
-## Tech Stack
-
-- Python 3.10+
-- PyTorch 2.0+
-- torchvision
-- scikit-learn
-- matplotlib
-- seaborn
-- numpy
-
----
-
-## Project Structure
-
-```
-ai-image-detector/
-├── project_code                # model architecture + training loop
-|                            # evaluation + visualizations
-├── requirements.txt         # dependencies
-├── model/
-│   └── best_model.pth       # saved best model weights
-└── results/
-    ├── confusion_matrix.png
-    ├── roc_curve.png
-    ├── confidence_distribution.png
-    └── wrong_predictions.png
-```
-
----
