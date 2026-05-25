@@ -78,9 +78,6 @@ Total Parameters: 1,402,914
 ### Confidence Distribution
 ![Confidence Distribution](results/confidence_distribution.png)
 
-### Wrong Predictions
-![Wrong Predictions](results/wrong_predictions.png)
-
 ---
 
 ## Key Finding
